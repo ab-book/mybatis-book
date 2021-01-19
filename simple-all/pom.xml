@@ -3,7 +3,7 @@
 	                    http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tk.mybatis</groupId>
-	<artifactId>simple</artifactId>
+	<artifactId>simple-all</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
@@ -92,7 +92,7 @@
 					</dependency>
 					<dependency>
 						<groupId>tk.mybatis</groupId>
-						<artifactId>simple</artifactId>
+						<artifactId>simple-start</artifactId>
 						<version>0.0.1-SNAPSHOT</version>
 					</dependency>
 				</dependencies>
